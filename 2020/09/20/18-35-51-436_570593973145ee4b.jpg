@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+<title>Dumpt.com</title>
+<style>
+body {
+	background: #FFFFFF;
+}
+
+.main-container {
+	max-width: 500px;
+	margin: 100px auto 0 auto;
+}
+
+.mainbox {
+	background: #eaeaea;
+	border: 1px solid #c7c7c7;
+	border-radius: 5px;
+	padding: 10px;
+	color: #000000;
+	font-family: Verdana;
+	font-size: 12px;
+}
+</style>
+</head>
+<body>
+<div class="main-container">
+<img src="images/logo.gif">
+<div class="mainbox">
+This service has been discontinued due to user abuse.
+</div>
+</div>
+</body>
+</html>
